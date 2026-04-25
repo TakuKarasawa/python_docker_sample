@@ -14,7 +14,7 @@
 ### 2.1 Clone the repository
 ```
 git clone git@github.com:TakuKarasawa/python_docker_sample.git
-cd python_opencv_docker_sample
+cd python_docker_sample
 ```
 
 ### 2.2 Start and enter the container
